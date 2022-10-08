@@ -6,3 +6,5 @@
 [03_Vuex](https://github.com/zhang2657977442/Vue-Study/blob/master/03_Vuex.md)
 
 [04_路由](https://github.com/zhang2657977442/Vue-Study/blob/master/04_%E8%B7%AF%E7%94%B1.md)
+
+[05_Vue3](https://github.com/zhang2657977442/Vue-Study/blob/master/05_Vue3.md)
